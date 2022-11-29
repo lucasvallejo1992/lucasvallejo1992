@@ -1,6 +1,10 @@
-### Hi there 👋
+# You can call me Luke 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A3F7&width=435&lines=Welcome+to+my+github+account)](https://git.io/typing-svg)
+
+#### 😋 A little bit about me
+
+I'm a full-stack developer with more than 6 years of experience. I started my coding journey as a naive tech support guy working for a medical center. I noticed some processes in the company that could be turned into a digital app, so I did. Upon graduation, I moved to Buenos Aires, looking for better opportunities, giving me great possibilities to grow. I have had the pleasure of working with great companies that made me the person and developer I'm right now.
 
 #### ⚡ Technologies
 
